@@ -1,7 +1,7 @@
 # D3-Dashboard-Voxlmart
 
 ### Section 1 - Overview 
-- This is a D3 Data Visualization that foucses on the analysis of the product-to-sales-to-revenue in USD based off of calls of a fictional company called Voxlmart.
+- This is a D3 Data Visualization that focuses on the analysis of the product-to-sales-to-revenue in USD based off of calls of a fictional company called Voxlmart.
   The data is collected over The Northeast Region, The West Region, The South Region, and the Midwest Region of the USA.
 
 ### Section 2 - Key Features
