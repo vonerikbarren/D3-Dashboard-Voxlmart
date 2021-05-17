@@ -7,7 +7,7 @@
 ### Section 2 - Key Features
 - The user can choose if they want to see Revenue, Call Time, Or Units Sold.
 - The user can then use the timeline feature to select what period they want to see the data.
-- The user can also visualize the company's size, Units sold per call, avg call revenue, and Average call duration. 
+- The user can also visualize the company's size, units sold per call, average call revenue, and average call duration. 
 - The user will have a conglomeration of data to do reports, explain trends, and create financial models for predictions. 
 
 
