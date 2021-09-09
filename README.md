@@ -1,6 +1,6 @@
 # D3-Dashboard-Voxlmart
 
-### Link to Site:
+### Link to Project:
 https://vonerikbarren.github.io/D3-Dashboard-Voxlmart/
 
 ### Section 1 - Overview 
